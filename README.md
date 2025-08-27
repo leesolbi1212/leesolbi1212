@@ -97,7 +97,7 @@
 <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;🐈 &nbsp;**고양이 네 마리 집사라서,**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;모델 학습 돌릴 때 고양이에 관한 대화를 걸어주면 반갑습니다. 🐾
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;고양이에 관한 대화를 걸어주면 반갑습니다. 🐾
 
 </div>
 
