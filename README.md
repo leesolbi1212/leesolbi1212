@@ -34,8 +34,6 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
 
-<img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=leesolbi1212&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9745F5&icon_color=9745F5"/>
-
 ### 🚀 금융에서 기술로, 새로운 도전을 시작하다
 
 - 🏦 **9년간 1금융권 근무**, 가계대출·데이터 기반 의사결정 경험
@@ -48,36 +46,36 @@
 
 ---
 
-## 🎯 Current Focus
+## <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="30"> Current Focus
 
 <div align="center">
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="100" height="100">
-<h4 style="color: #9745F5;">Deep Learning</h4>
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100" height="100">
+<h4 style="color: #9745F5;">AI 자연어 처리</h4>
 <p>
-Transformer Models<br>
-Computer Vision<br>
-NLP Applications
+텍스트 분석<br>
+언어 모델링<br>
+자연어 이해
 </p>
 </td>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="100" height="100">
-<h4 style="color: #9745F5;">Cloud & MLOps</h4>
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100" height="100">
+<h4 style="color: #9745F5;">이미지 생성 & 객체인식</h4>
 <p>
-AWS Services<br>
-Model Deployment<br>
-CI/CD Pipelines
+이미지 분류<br>
+객체 탐지<br>
+이미지 생성
 </p>
 </td>
 <td align="center" width="33%">
-<img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="100" height="100">
-<h4 style="color: #9745F5;">Full Stack</h4>
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" height="100">
+<h4 style="color: #9745F5;">풀스택 웹 개발</h4>
 <p>
-React + Spring Boot<br>
-Microservices<br>
-System Design
+React 프론트엔드<br>
+Spring Boot 백엔드<br>
+데이터베이스 설계
 </p>
 </td>
 </tr>
