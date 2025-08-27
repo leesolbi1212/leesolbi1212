@@ -111,7 +111,7 @@
 <div align="center">
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="250">
 <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100" height="100">
 <h4 style="color: #9745F5;">AI 자연어 처리</h4>
 <p>
@@ -120,7 +120,7 @@
 자연어 이해
 </p>
 </td>
-<td align="center" width="33%">
+<td align="center" width="250">
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100" height="100">
 <h4 style="color: #9745F5;">객체인식 & 이미지 생성</h4>
 <p>
@@ -129,7 +129,7 @@
 이미지 생성
 </p>
 </td>
-<td align="center" width="33%">
+<td align="center" width="250">
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" height="100">
 <h4 style="color: #9745F5;">풀스택 웹 개발</h4>
 <p>
@@ -254,10 +254,4 @@ Spring Boot 백엔드<br>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leesolbi1212/leesolbi1212/output/snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/leesolbi1212/leesolbi1212/output/snake.svg">
 </picture>
-</div>
-
-<!-- Random Dev Quote -->
-<div align="center">
-<br>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
