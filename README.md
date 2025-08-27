@@ -153,19 +153,27 @@ Spring Boot 백엔드<br>
 
 <table>
 <tr>
-<td width="50%">
-<h3 align="center">🐝 Bee Detection & Classification</h3>
+<td width="33%">
+<h3 align="center">♿ 교통약자 전용 내비게이션</h3>
+<p align="center">
+  <a href="https://github.com/leesolbi1212/accessible_navigation_web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leesolbi1212&repo=accessible_navigation_web&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9745F5&icon_color=9745F5" />
+  </a>
+</p>
+</td>
+<td width="33%">
+<h3 align="center">🐝 꿀벌 탐지 & 분류</h3>
 <p align="center">
   <a href="https://github.com/leesolbi1212/bee-detection-classification">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=leesolbi1212&repo=bee-detection-classification&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9745F5&icon_color=9745F5" />
   </a>
 </p>
 </td>
-<td width="50%">
-<h3 align="center">♿ Accessible Navigation</h3>
+<td width="33%">
+<h3 align="center">📄 AI 금융 문서 OCR</h3>
 <p align="center">
-  <a href="https://github.com/leesolbi1212/accessible-navigation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leesolbi1212&repo=accessible-navigation&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9745F5&icon_color=9745F5" />
+  <a href="https://github.com/leesolbi1212/ocr_toy_project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leesolbi1212&repo=ocr_toy_project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9745F5&icon_color=9745F5" />
   </a>
 </p>
 </td>
