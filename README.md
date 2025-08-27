@@ -103,7 +103,10 @@ Spring Boot 백엔드<br>
   <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/Stable_Diffusion-000000?style=for-the-badge&logo=stability-ai&logoColor=white"/>
   <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/EasyOCR-FF6B6B?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tesseract_OCR-005571?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white"/>
 </p>
 </details>
 
@@ -136,6 +139,7 @@ Spring Boot 백엔드<br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
@@ -167,20 +171,6 @@ Spring Boot 백엔드<br>
 </td>
 </tr>
 </table>
-
----
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/> GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leesolbi1212&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9745F5&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=leesolbi1212&theme=tokyonight&hide_border=true&background=0D1117&ring=9745F5&fire=9745F5&currStreakLabel=9745F5" />
-</p>
-
-<!-- Contribution Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leesolbi1212&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=9745F5&line=9745F5&point=9745F5" width="100%"/>
-</p>
 
 ---
 
