@@ -44,41 +44,17 @@
 
 <br>
 
-<div align="center">
-
-### 💫 궁금하다면 클릭해보세요! 💫
-
-</div>
-
 <details>
-<summary>
-<div align="center">
-<img src="https://img.shields.io/badge/🎲_Click_to_see_more_fun_facts_&_TMI!-FF6B9D?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=9745F5&color=FF6B9D"/>
-</div>
-</summary>
-
-<br>
-
-<div align="center">
-<img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="200"/>
-</div>
-
+<summary>🎲 <b>Click to see more fun facts & TMI!</b></summary>
 <br>
 
 <ul>
-<li>🎯 먼저 실행해 보고, 과정에서 방향을 다듬는 편입니다. <strong>(발사 후 조준)</strong></li>
-<li>❓ <strong>"왜?"</strong>라는 질문을 놓지 않아 <strong>왜무새</strong>라는 별명이 붙었습니다. (이유를 찾고 이해하는 과정이 즐겁습니다)</li>
+<li>🎯 먼저 실행해 보고, 과정에서 방향을 다듬는 편입니다. (발사 후 조준)</li>
+<li>❓ "왜?"라는 질문을 놓지 않아 **왜무새**라는 별명이 붙었습니다. (이유를 찾고 이해하는 과정이 즐겁습니다)</li>
 <li>🏦 은행에서 일을 더 잘하고 싶다는 마음으로 시작한 공부가 → 퍼포먼스 마케팅 → 데이터 분석 → 결국 AI까지 이어졌습니다.</li>
-<li>📊 데이터는 '완벽히 깨끗한 것'보다, <strong>현실적인 제약 속에서 활용 가능하게 만드는 과정</strong>이 더 중요하다고 생각합니다.</li>
+<li>📊 데이터는 '완벽히 깨끗한 것'보다, **현실적인 제약 속에서 활용 가능하게 만드는 과정**이 더 중요하다고 생각합니다.</li>
 <li>🐈 고양이 네 마리 집사라서, 모델 학습 돌릴 때 고양이에 관한 대화를 걸어주면 반갑습니다.</li>
 </ul>
-
-<div align="center">
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150"/>
-<br>
-<em>고양이 네 마리와 함께하는 개발 생활 🐾</em>
-</div>
-
 </details>
 
 ---
