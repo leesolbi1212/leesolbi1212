@@ -34,13 +34,13 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
 
-### 🚀 금융에서 기술로, 새로운 도전을 시작하다
+### 데이터로 문제를 이해하고, AI로 답을 설계합니다.
 
-- 🏦 **9년간 1금융권 근무**, 가계대출·데이터 기반 의사결정 경험
-- 🤖 **AI 모델링과 데이터 분석**을 통한 실질적인 문제 해결 지향
-- ⚡ 목표를 정하면 **빠르게 실행**, 과정에서 끊임없이 개선
-- 🤝 협업에서는 **서로의 강점을 극대화하는 방식**을 추구
-- 📈 변화를 **새로운 기회**로 받아들이는 유연한 태도
+🚀 금융에서 출발해 지금은 AI와 데이터 분야로 확장해 가고 있습니다.  
+🤖 생성 모델과 딥러닝 아키텍처 구현, 데이터 분석을 연결하는 실험을 즐깁니다.  
+📊 금융·경제 도메인 경험을 바탕으로, 데이터가 가진 힘을 현실 문제 해결에 적용합니다.  
+⚡ 아이디어가 생기면 먼저 실행해 보고, 과정 속에서 더 나은 방법을 찾아갑니다.  
+🤝 협업에서는 서로의 강점을 살려 함께 성장하는 방식을 선호합니다.
 
 <br>
 
@@ -182,18 +182,43 @@ Spring Boot 백엔드<br>
 
 ---
 
-## 🎪 Fun Facts
+## <img src="https://media.giphy.com/media/3o6fJ5LANL0x31R1Ic/giphy.gif" width="35"> Fun Facts & TMI
+
+<div align="center">
+
+### 💫 궁금하다면 클릭해보세요! 💫
+
+</div>
 
 <details>
-<summary>🎲 <b>Click to reveal fun facts about me!</b></summary>
+<summary>
+<div align="center">
+<img src="https://img.shields.io/badge/🎲_Click_to_see_more_fun_facts_&_TMI!-FF6B9D?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=9745F5&color=FF6B9D"/>
+</div>
+</summary>
+
 <br>
+
+<div align="center">
+<img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="200"/>
+</div>
+
+<br>
+
 <ul>
-<li>🏦 은행에서 9년간 숫자와 씨름하다가 코드의 매력에 빠졌습니다</li>
-<li>📊 Excel 수식보다 Python 코드가 더 아름답다고 생각합니다</li>
-<li>🧮 금융 데이터 분석에서 AI 모델링까지, 숫자는 제 친구입니다</li>
-<li>☕ 디버깅할 때는 커피보다 녹차를 선호합니다</li>
-<li>🎯 "Done is better than perfect" - 제가 좋아하는 모토입니다</li>
+<li>🎯 먼저 실행해 보고, 과정에서 방향을 다듬는 편입니다. <strong>(발사 후 조준)</strong></li>
+<li>❓ <strong>"왜?"</strong>라는 질문을 놓지 않아 <strong>왜무새</strong>라는 별명이 붙었습니다. (이유를 찾고 이해하는 과정이 즐겁습니다)</li>
+<li>🏦 은행에서 일을 더 잘하고 싶다는 마음으로 시작한 공부가 → 퍼포먼스 마케팅 → 데이터 분석 → 결국 AI까지 이어졌습니다.</li>
+<li>📊 데이터는 '완벽히 깨끗한 것'보다, <strong>현실적인 제약 속에서 활용 가능하게 만드는 과정</strong>이 더 중요하다고 생각합니다.</li>
+<li>🐈 고양이 네 마리 집사라서, 모델 학습 돌릴 때 고양이에 관한 대화를 걸어주면 반갑습니다.</li>
 </ul>
+
+<div align="center">
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150"/>
+<br>
+<em>고양이 네 마리와 함께하는 개발 생활 🐾</em>
+</div>
+
 </details>
 
 ---
