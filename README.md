@@ -41,7 +41,7 @@
 <details>
 <summary>🎲 <b>Click to see more fun facts & TMI!</b></summary>
 <br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=9745F5&width=500&lines=Here+are+some+of+my+TMI+%F0%9F%98%84)](https://git.io/typing-svg)
+
 <ul>
 <li>🎯 먼저 실행해 보고, 과정에서 방향을 다듬는 편입니다. (발사 후 조준)</li>
 <li>❓ “왜?”라는 질문을 놓지 않아 **왜무새**라는 별명이 붙었습니다. (이유를 찾고 이해하는 과정이 즐겁습니다)  </li>
