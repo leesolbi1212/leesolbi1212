@@ -20,6 +20,9 @@
   <a href="https://www.notion.so" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio"/>
   </a>
+  <a href="https://huggingface.co/solbi12" target="_blank">
+    <img src="https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  </a>
 </p>
 
 <!-- 방문자 수 & 팔로워 -->
